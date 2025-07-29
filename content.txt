@@ -259,4 +259,4 @@ export default [
   "Don't panic... AHHHHH!",
   "Ensuring Gnomes are still short.",
   "Baking ice cream...",
-];
+]
