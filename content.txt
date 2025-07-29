@@ -1,6 +1,6 @@
 export default [
   "Reticulating splines...",
-  "Generating witty dialog...",
+  "Generating confusing dialog for the benefit of my boss...",,
   "Swapping time and space...",
   "Spinning violently around the y-axis...",
   "Tokenizing real life...",
@@ -259,4 +259,4 @@ export default [
   "Don't panic... AHHHHH!",
   "Ensuring Gnomes are still short.",
   "Baking ice cream...",
-]
+];
